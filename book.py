@@ -1,7 +1,4 @@
 import cv2
-import numpy as np
-from PIL import Image
-
 
 input_image_path = 'apple.jpg'
 
